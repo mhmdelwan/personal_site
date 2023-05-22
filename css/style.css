@@ -1,0 +1,262 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+.portfolio
+{
+  background-color: #EBF2EB;
+}
+
+.portfolio p
+{
+  font-style: italic;
+  font-weight: 900;
+  font-size: 19px;
+}
+
+.portfolio a:nth-child(1), .portfolio a:nth-child(3)
+{
+  font-weight: 700;
+  background: -webkit-linear-gradient(0deg,#02B875,#242424);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+nav
+{
+  background-color: #EBF2EB;
+}
+
+nav ul li i, nav ul li a
+{
+  color: #02B875 !important;
+  cursor: pointer !important;
+}
+nav ul li a
+{
+  font-weight: 400 !important;
+}
+
+.home img
+{
+  width: 30%;
+}
+
+#home
+{
+  background-color: #242424;
+  color: #EBF2EB;
+  font-style: italic;
+}
+
+span
+{
+  color: #02B875;
+}
+
+.content a
+{
+  color: #242424;
+  font-weight: 500;
+  transition: all 0.5s;
+}
+
+.content a:hover
+{
+  letter-spacing: 2px;
+  background-color: #02B875 !important;
+  color: #EBF2EB;
+}
+
+.icons a:hover
+{
+  background-color: transparent !important;
+  letter-spacing: 0px;
+}
+
+
+.about
+{
+  background-color: #242424;
+}
+
+.details
+{
+  box-shadow: 2px 5px 10px 3px #02B875;
+  padding: 10px;
+}
+
+.details button
+{
+  font-weight: 500;
+  color: #242424;
+  border: none;
+  transition: all 0.5s;
+}
+
+.details button:hover
+{
+  letter-spacing: 2px;
+  background-color: #02B875 !important;
+  color: #EBF2EB;
+}
+
+.about-me p
+{
+  letter-spacing: 2px;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.btn
+{
+  color: #242424 !important;
+  background-color: #EBF2EB !important;
+  font-weight: 500 !important;
+  transition: all 0.5s;
+}
+
+.btn:hover
+{
+  letter-spacing: 2px;
+  background-color: #02B875 !important;
+  color: #EBF2EB !important;
+}
+
+
+.service
+{
+  background-color: #242424;
+}
+
+.work p
+{
+  letter-spacing: 2px;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.work h3
+{
+  background: -webkit-linear-gradient(0deg,#EBF2EB,#02B875);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.skills
+{
+  background-color: #242424;
+}
+
+.progress
+{
+  width: 300px;
+  height: 30px;
+  border-radius: 20px;
+  box-shadow: 2px 5px 10px 3px #02B875;
+}
+.progress-bar
+{
+  background-color: #02B875 !important;
+  border: 20px;
+  color: #242424;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ability
+{
+  box-shadow: 2px 5px 10px 3px #02B875;
+  padding: 5px 0;
+}
+
+.certification
+{
+  background-color: #242424;
+}
+
+.projects
+{
+  background-color: #242424;
+}
+
+
+.work
+{
+  box-shadow: 2px 5px 10px 3px #02B875;
+  border-radius: 2px;
+}
+
+.work img
+{
+  border-radius: 2px;
+}
+
+.work a
+{
+  color: #242424;
+  font-weight: 500;
+  border: none;
+  transition: all 0.5s;
+}
+
+.work a:hover
+{
+  letter-spacing: 2px;
+  background-color: #02B875 !important;
+  color: #EBF2EB;
+}
+
+
+.contact
+{
+  background-color: #242424;
+}
+
+.btn1
+{
+  color: #242424;
+  font-weight: 500;
+  transition: all 0.5s;
+}
+
+.btn1:hover
+{
+  color: #EBF2EB;
+  background-color: #02B875;
+  letter-spacing: 2px;
+}
+
+.form-control input:focus
+{
+  outline: transparent !important;
+  border: 1px solid transparent !important;
+  box-shadow: transparent !important;
+  border-color: transparent !important;
+}
+
+
+footer
+{
+  background-color: #02B875;
+  font-weight: 500;
+}
+
+footer p
+{
+  color: #242424 !important;
+}
+
+
+
+
+
